@@ -57,7 +57,7 @@ public class kirjautumisikkuna extends JFrame implements ActionListener{
     vaarinotsikko.setVisible(false);
 
     this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-    this.setTitle("Kirjautumisikkuna");
+    this.setTitle("Haapanen Johannes Kirjautumisikkuna");
     this.setSize(600, 600);
     this.setResizable(false);
     this.getContentPane().setBackground(Color.WHITE);
